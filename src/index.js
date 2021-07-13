@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchImg()
     fetchBreed()
 
+
     selector.onchange = () => dropDown()
 })
 
